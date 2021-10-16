@@ -1,0 +1,12 @@
+1. CRIAR ELEMENTOS HTML
+
+2.TRAZER ELEMENTOS DO HTML PARA O JS
+    =>Adicionar eventos de clicknos botões
+
+3.FUNCIONALIDADES:
+    =>criar função 'createHour' objeto Date trabalha com milisegundos
+    =>criar função 'startTimer' (o que o setInterval retorna?)
+    =>criar função clearInterval para o botão pause (para ou zera?) 
+        - o timer muda de cor quando pausado e quando retorna volta para preto
+
+
