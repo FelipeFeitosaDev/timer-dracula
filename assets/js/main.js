@@ -1,8 +1,6 @@
 function escope(){
     const timerElement = document.querySelector('.timer');
-    const startButton = document.querySelector('.start');
-    const pauseButton = document.querySelector('.pause');
-    const resteButton = document.querySelector('.reset');
+   
 
     let miliseconds = 0;
     let start;
