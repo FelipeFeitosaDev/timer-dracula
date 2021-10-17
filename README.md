@@ -1,6 +1,6 @@
 # timer-dracula
 
-![timer](https://github.com/FelipeFeitosaDev/timer-dracula/assets/images/view-dracula-timer.png)
+<img align="center" width="60%" margin-bottom="80px" src="https://github.com/FelipeFeitosaDev/timer-dracula/assets/images/view-dracula-timer.png" style="max-width:100%;">
 A timer with dracula theme
 Just practicing with js vanilla a little bit. 
 
