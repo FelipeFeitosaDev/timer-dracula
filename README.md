@@ -2,6 +2,15 @@
 A timer with dracula theme
 Just practicing with js vanilla a little bit. 
 
+<h2>Technologies Used</h2>
+
+* HTML5
+* CSS3
+* JavaScript
+* Git
+* GitHub
+* Google Fonts
+
 ## Features
 
 Basically it's a timer with thres buttons (start,pause and reset):
