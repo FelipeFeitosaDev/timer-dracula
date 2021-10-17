@@ -4,7 +4,7 @@
 A timer with dracula theme
 Just practicing with js vanilla a little bit. 
 
-<h2>Technologies Used</h2>
+## Technologies Used
 
 * HTML5
 * CSS3
