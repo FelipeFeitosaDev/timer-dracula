@@ -1,7 +1,7 @@
 # timer-dracula
 
 <img align="center" width="60%" margin-bottom="80px" src="https://github.com/FelipeFeitosaDev/timer-dracula/blob/master/assets/images/view-dracula-timer.png" style="max-width:100%;">
-A timer with dracula theme
+A timer with dracula theme.</br>
 Just practicing with js vanilla a little bit. 
 
 ## Technologies Used
