@@ -32,7 +32,11 @@ function escope(){
         if(e.target.classList.contains('pause')){
             clearInterval(start);
         }
-        
+        if(e.target.classList.contains('reset')){
+            clearInterval(start);
+            miliseconds = 0;
+            timerElement.innerHTML=`00:00:00`;
+        }
       
     })
 }
