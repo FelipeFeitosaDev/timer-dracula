@@ -19,6 +19,7 @@ function escope(){
 
     document.addEventListener('click', (e)=>{
         clearInterval(start);
+        timerElement.classList.remove('pause-timer');
         if(e.target.classList.contains('start')){
             start = setInterval(()=>{
                 miliseconds += 1000;
@@ -28,6 +29,7 @@ function escope(){
             }, 1000);
         }
         if(e.target.classList.contains('pause')){
+            timerElement.classList.add('pause-timer');
             clearInterval(start);
         }
         if(e.target.classList.contains('reset')){
