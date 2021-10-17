@@ -20,7 +20,7 @@ function escope(){
     }
 
     document.addEventListener('click', (e)=>{
-        
+        clearInterval(start);
         if(e.target.classList.contains('start')){
             start = setInterval(()=>{
                 miliseconds += 1000;
@@ -28,6 +28,9 @@ function escope(){
                 timerElement.innerHTML = `${timer}`
     
             }, 1000);
+        }
+        if(e.target.classList.contains('pause')){
+            clearInterval(start);
         }
         
       
