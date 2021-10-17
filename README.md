@@ -9,3 +9,7 @@ Basically it's a timer with thres buttons (start,pause and reset):
 - condicionals with one event.listener. 
 - object Date with localeTimeString method
 - setInterval and clearInterval 
+
+## How to use
+
+You can download end run with your browser directly.
