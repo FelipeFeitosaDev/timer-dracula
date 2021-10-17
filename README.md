@@ -1,4 +1,6 @@
 # timer-dracula
+
+![timer](https://github.com/FelipeFeitosaDev/timer-dracula/assets/images/view-dracula-timer.png)
 A timer with dracula theme
 Just practicing with js vanilla a little bit. 
 
